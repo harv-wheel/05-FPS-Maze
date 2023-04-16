@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/shotgun-mossberg590-RA_The_Sun_God-451502290.wav-abe22f236b7c50a69e5376be1fc65f04.sample"
+
+[deps]
+
+source_file="res://Assets/shotgun-mossberg590-RA_The_Sun_God-451502290.wav"
+dest_files=[ "res://.import/shotgun-mossberg590-RA_The_Sun_God-451502290.wav-abe22f236b7c50a69e5376be1fc65f04.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
